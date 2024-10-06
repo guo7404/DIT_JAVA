@@ -1,10 +1,13 @@
 package r10;
+public class DayDiary{
+	
+	
+}
 
 public class r10 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		 System.out.println("**** ");
 	}
 
 }

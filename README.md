@@ -25,8 +25,6 @@ p 320~330
 chapter6  
 p 393~400  
 
-chapter7 (1,4,7...n%3==1 문제풀기)  
+chapter7,chapter8 (1,4,7...n%3==1 문제풀기)  
 p 448~455  
-
-chapter8  
 p 498~505  

@@ -1,13 +1,23 @@
 # java report
 
+report1
+
+완료(챕터 1,2 레포트입니다.)
+
+report2
+
+
+
 report_c07
 
-챕터7 레포트입니다.(미완료)
+c7_q07_1
+
+c7_q07_2미완료
 
 
 report_c08
 
-챕터8 레포트입니다.(완료)
+완료
 
 
 report_c09

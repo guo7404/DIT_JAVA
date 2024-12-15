@@ -1,16 +1,13 @@
 # java report
 
-report1
+report1(챕터 1,2)
 
-완료(챕터 1,2 레포트입니다.)
-
-report2
-
+완료
 
 
 report_c07
 
-c7_q07_1
+c7_q07_1미완료
 
 c7_q07_2미완료
 
